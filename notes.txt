@@ -1,0 +1,7 @@
+6 Key Modules
+- models - access to large language models
+- prompts - structure your prompts
+- indexes - prepare your documents for working with large language models
+- memory - gives llm chain access to historical inputs
+- chains - string it all together
+- agents - allow you tools like accessing Wikipedia or Google Search

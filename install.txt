@@ -1,0 +1,7 @@
+pip install -
+streamlit - use to build app
+langchain - use to build llm workflow
+openai - openai gpt
+Wikipedia - connect gpt to wikipedia
+chromadb - vector storage
+tiktoken - backend tokenizer for open ai
